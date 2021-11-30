@@ -34,9 +34,9 @@ The target of this attack was: `Target 1` (`192.168.1.110`).
 
 Target 1 is an Apache web server and has SSH enabled, so ports 80 and 22 are possible ports of entry for attackers. As such, the following alerts have been implemented:
 
-- [Excessive HTTP Errors](https://github.com/jklinges14/Cyber-Security-Final-Project#excessive-http-errors)
-- [HTTP Request Size Monitor](https://github.com/jklinges14/Cyber-Security-Final-Project#http-request-size-monitor)
-- [CPU Usage Monitor](https://github.com/jklinges14/Cyber-Security-Final-Project#cpu-usage-monitor)
+- [Excessive HTTP Errors](#excessive-http-errors)
+- [HTTP Request Size Monitor](#http-request-size-monitor)
+- [CPU Usage Monitor](#cpu-usage-monitor)
 
 ### Monitoring the Targets
 
