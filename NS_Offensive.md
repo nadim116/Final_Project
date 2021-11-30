@@ -18,7 +18,7 @@ Target 2
 
 Capstone
 
-![Capstone_NMAP](/Users/Nadim/Desktop/nadims-final-project/Deliverable/Images/Capstone_NMAP.png)
+![Capstone_NMAP](Images/Capstone_NMAP.png)
 
 This scan identifies the services below as potential points of entry:
 
