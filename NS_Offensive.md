@@ -1,7 +1,7 @@
 # Red Team: Summary of Operations
 
 ## Table of Contents
-- Exposed Services
+- [Exposed Services](#exposed-services)
 - Critical Vulnerabilities
 - [Exploitation](#exploitation)
 
@@ -27,6 +27,8 @@ This scan identifies the services below as potential points of entry:
   - HTTP
   - rpcbind
   - netbios-ssn on port 139 & 445
+
+### Critical Vulnerabilities
 
 The following vulnerabilities were identified on each target:
 - Target 1
