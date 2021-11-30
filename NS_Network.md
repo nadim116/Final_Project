@@ -41,4 +41,5 @@ You must inspect your traffic capture to answer the following questions:
     - Windows username: `elmer.blanco`
     - OS version: `Windows 10 NT 10.0`
 2. Which torrent file did the user download?
-    1. Betty_Boop_Rythm_on_the_Reservation.avoi
+    1. `Betty_Boop_Rythm_on_the_Reservation.avoi`
+
