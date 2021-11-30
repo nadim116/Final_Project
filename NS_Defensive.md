@@ -17,11 +17,11 @@
   - **IP Address**: 192.168.1.100
 - Capstone
   - **Operating System**: Linux
-  - **Purpose**: Basic HTTP Server (this is a red herring)
+  - **Purpose**: Basic HTTP Server
   - **IP Address**: 192.168.1.105
 - Target 1
   - **Operating System**: Linux
-  - **Purpose**: HTTP Server (also wordpress site)
+  - **Purpose**: HTTP Server
   - **IP Address**: 192.168.1.110
 - Target 2
   - **Operating System**: Linux
