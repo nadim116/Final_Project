@@ -4,7 +4,7 @@
 - [Network Topology](#network-topology)
 - [Description of Targets](#description-of-targets)
 - [Monitoring the Targets](#monitoring-the-targets)
-- [Suggestions for Going Further](#suggestions-for-going-further-(optional))
+- [Suggestions for Going Further](#suggestions-for-going-further-optional)
 
 ### Network Topology
 - Hypervisor / Host Machine (Not a VM)
