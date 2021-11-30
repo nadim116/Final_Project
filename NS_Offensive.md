@@ -10,11 +10,11 @@ Nmap scan results for each machine reveal the below services and OS details:
 
 Target 1
 
-![Target 1 nmap Scan](/Users/Nadim/Desktop/nadims-final-project/Deliverable/Images/Target_1_NMAP.png)
+![Target 1 nmap Scan](Images/Target_1_NMAP.png)
 
 Target 2
 
-![Target_2_NMAP](/Users/Nadim/Desktop/nadims-final-project/Deliverable/Images/Target_2_NMAP.png)
+![Target_2_NMAP](Images/Target_2_NMAP.png)
 
 Capstone
 
@@ -42,7 +42,7 @@ The following vulnerabilities were identified on each target:
   - Cron Wordpress Attacks
   - WordPress version 4.8.7 Vulnerability
 
-![wp_scan](/Users/Nadim/Desktop/nadims-final-project/Deliverable/Images/wp_scan.png)
+![wp_scan](Images/wp_scan.png)
 
 ### Exploitation
 The Red Team was able to penetrate `Target 1` and retrieve the following confidential data:
@@ -51,7 +51,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
     - **Exploit Used**
       - Open Port 22 
         - ssh michael@192.168.1.110
-        - ![Flag_1](/Users/Nadim/Desktop/nadims-final-project/Deliverable/Images/Flag_1.png)
+        - ![Flag_1](Images/Flag_1.png)
   
   
   
@@ -61,6 +61,6 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
       
       - file exploration once we where inside the machine via ssh 
       - cat /var/www/flag2.txt
-      - ![Flag_2](/Users/Nadim/Desktop/nadims-final-project/Deliverable/Images/Flag_2.png)
+      - ![Flag_2](Images/Flag_2.png)
       
       
