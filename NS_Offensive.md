@@ -3,7 +3,7 @@
 ## Table of Contents
 - Exposed Services
 - Critical Vulnerabilities
-- https://github.com/nadim116/Final_Project/blob/master/NS_Offensive.md#exploitation
+- ![Exploitation](https://github.com/nadim116/Final_Project/blob/master/NS_Offensive.md#exploitation)
 
 ### Exposed Services
 Nmap scan results for each machine reveal the below services and OS details:
