@@ -1,11 +1,11 @@
 # Blue Team: Summary of Operations
 
 ## Table of Contents
-- [Network Topology](#networktopology)
-- Description of Targets
-- Monitoring the Targets
-- Patterns of Traffic & Behavior
-- Suggestions for Going Further
+- [Network Topology](#network-topology)
+- [Description of Targets]()
+- [Monitoring the Targets](#monitoring-the-targets)
+- [Patterns of Traffic & Behavior]()
+- [Suggestions for Going Further]()
 
 ### Network Topology
 - Hypervisor / Host Machine (Not a VM)
